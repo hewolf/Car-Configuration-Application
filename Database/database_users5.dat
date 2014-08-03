@@ -1,0 +1,5 @@
+Model char(40), Baseprice integer, Color char(40)
+"Focus", 10000, "white"
+"Honda", 12000, "silver"
+"Hyundai", 14000, "red"
+"Benz", 16000, "gold"

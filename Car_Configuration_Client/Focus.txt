@@ -1,0 +1,29 @@
+5
+10 2 3 2 2
+18445
+Focus Wagon ZTW
+0 0 0 0 0 0 0 0 0 0 0 -815 0 400 1625 0 350 0 595
+Color
+Transmission
+Brakes/Traction Control
+Side Impact Air Bags
+Power Moonroof
+Fort Knox Gold Clearcoat Metallic
+Liquid Grey Clearcoat Metallic
+Infra-Red Clearcoat
+Grabber Green Clearcoat Metallic
+Sangria Red Clearcoat Metallic
+French Blue Clearcoat Metallic
+Twilight Blue Clearcoat Metallic
+CD Silver Clearcoat Metallic
+Pitch Black Clearcoat
+Cloud 9 White Clearcoat
+automatic
+manual
+Standards 
+ABS
+ABS with Advance Trac
+present
+not present
+present
+not present
