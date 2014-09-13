@@ -13,17 +13,17 @@ A kbb.com Like Car Configuration Web App.
 
 ## Usage
 
-<p align="center"> <img src='/Assets/InitPage.PNG'></img> </p>
+<p align="center"> <img src='/Assets/InitPage.png'></img> </p>
 
-<p align="center"> <img src='/Assets/Client1.PNG'></img> </p>
+<p align="center"> <img src='/Assets/Client1.png'></img> </p>
 
-<p align="center"> <img src='/Assets/Client2.PNG'></img> </p>
+<p align="center"> <img src='/Assets/Client2.png'></img> </p>
 
-<p align="center"> <img src='/Assets/ConfigurePage1.PNG'></img> </p>
+<p align="center"> <img src='/Assets/ConfigurePage1.png'></img> </p>
 
-<p align="center"> <img src='/Assets/ConfigurePage2.PNG'></img> </p>
+<p align="center"> <img src='/Assets/ConfigurePage2.png'></img> </p>
 
-<p align="center"> <img src='/Assets/ResultPage.PNG'></img> </p>
+<p align="center"> <img src='/Assets/ResultPage.png'></img> </p>
 
 ## Support  
 
