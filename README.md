@@ -9,7 +9,9 @@ A kbb.com Like Car Configuration Web App.
 
 - **IPC**: Socket
 
-- **Host**: Servlet, Apache Tomcat 7.5
+- **Design Pattern**: MVC 
+
+- **Web**: Servlet, JSP, Apache Tomcat 7.5
 
 ## Usage
 
